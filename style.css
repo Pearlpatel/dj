@@ -1,0 +1,39 @@
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#head{
+    color: white;
+    font-size: x-large;
+}
+span{
+    font-size: medium;
+}
+#play_button{
+    background-color:royalblue;
+    color: white;
+    font-size: x-large;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#speed_div{
+    float:left;
+    margin-left: 18px;
+}
+#volume_div{
+    float: right;
+    margin-right: 18px;
+}
+h3{
+color: white;
+font-size: xx-large;
+font-family: 'Bebas Neue', cursive;
+}
+canvas{
+    border: black;
+    margin:30px;
+}
